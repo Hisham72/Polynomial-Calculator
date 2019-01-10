@@ -1,0 +1,15 @@
+﻿  Source.cpp
+  LinkedPolynomial.cpp
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\hisham\desktop\test\polynomials calculator\polynomials calculator\linkedpolynomial.cpp(233): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Polynomials Calculator.vcxproj -> C:\Users\Hisham\Desktop\Test\Polynomials Calculator\Debug\Polynomials Calculator.exe
+  Polynomials Calculator.vcxproj -> C:\Users\Hisham\Desktop\Test\Polynomials Calculator\Debug\Polynomials Calculator.pdb (Full PDB)
