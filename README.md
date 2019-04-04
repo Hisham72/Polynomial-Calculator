@@ -1,7 +1,6 @@
 # Polynomial-Calculator
 ## 2nd year DS project
-<br>
-### Creators:<br>
+### Creators:
 1- Wessam ElKhaligy<br>
 2- Hisham Gamal<br>
 3- Gamal ElSawy<br>
